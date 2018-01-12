@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e6886bb78a5be5cf67b649ac8b0935a\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.4.aar\4a06efba4fb9ef63645ad27649e0a470\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:16:1-21:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\c465d31aa2997ad4900481865f0c04a9\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:17:1-31:12
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:10:5-98
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:10:22-95
+uses-feature#android.hardware.location.gps
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:12:19-63
+uses-library#com.google.android.maps
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:14:5-60
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:14:19-57
+application
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:16:5-51:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e6886bb78a5be5cf67b649ac8b0935a\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e6886bb78a5be5cf67b649ac8b0935a\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.4.aar\4a06efba4fb9ef63645ad27649e0a470\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.4.aar\4a06efba4fb9ef63645ad27649e0a470\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:18:5-20:19
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\c465d31aa2997ad4900481865f0c04a9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\c465d31aa2997ad4900481865f0c04a9\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:19:9-41
+	android:roundIcon
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:20:9-54
+	android:icon
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:18:9-48
+	android:allowBackup
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:22:9-40
+meta-data#com.google.android.gms.version
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:24:13-58
+activity#com.impactus.impactus_sensebox.SplashScreen
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:27:9-33:20
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:27:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.impactus.impactus_sensebox.MainActivity
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:35:13-41
+activity#com.impactus.impactus_sensebox.BTconnect
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:37:9-40:52
+	android:screenOrientation
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:40:13-49
+	android:configChanges
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:39:13-63
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:38:13-38
+meta-data#com.google.android.geo.API_KEY
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:42:9-44:71
+	android:value
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:43:13-58
+activity#com.impactus.impactus_sensebox.ArchiveMap
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:46:9-48
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:46:19-45
+activity#com.impactus.impactus_sensebox.SecondScreen
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:47:9-50
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:47:19-47
+activity#com.impactus.impactus_sensebox.DataLister
+ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:48:9-50:62
+	android:screenOrientation
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:50:13-49
+	android:configChanges
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:49:13-63
+	android:name
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml:48:19-45
+uses-sdk
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e6886bb78a5be5cf67b649ac8b0935a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4e6886bb78a5be5cf67b649ac8b0935a\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.4.aar\4a06efba4fb9ef63645ad27649e0a470\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-location-10.2.4.aar\4a06efba4fb9ef63645ad27649e0a470\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\c465d31aa2997ad4900481865f0c04a9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.4.aar\c465d31aa2997ad4900481865f0c04a9\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.4.aar\707d2e8f9851476c43b867916b5c7332\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:21:5-23:58
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		ADDED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android Projects\IMPACTUS_SENSEBOX\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\e7592594627218499d2202b83b6fc706\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\ab64abe79a6ee620a2967b9a6453684e\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\39f80d197e3cdc990d019bb69c424887\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\8f9e1f7ca59514db64a7a81181175b13\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\4778d4625f6727c5f7ddf808f40c271e\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\75b0d5462afcd444c49c579b2b939fca\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\b7e55e660b1f31338b7662a606cbf02d\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\689bc4f6b8119308d5f63479713ea971\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\0071e22aee17fca81ee2894c58a7d3c3\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-maps-10.2.4.aar\764cc84c5e932c38fcac359db8e95f0f\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.2.4] C:\Users\Antonio\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.4.aar\c1c4c90fda6e1dc7422c7f87b922bec3\AndroidManifest.xml:19:19-85

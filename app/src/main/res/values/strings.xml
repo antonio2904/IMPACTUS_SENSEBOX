@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMPACTUS</string>
+    <string name="google_android_map_api_key">AIzaSyAQWFC_o4ZGdsNUGqA9BPBl0LebnNyKjSk</string>
+    <string name="title_activity_archive_map">Map</string>
+</resources>
